@@ -265,6 +265,9 @@ I want to express my profound gratitude to my instructor **Mehmet Bey**, whose d
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:numanbalik72@gmail.com)
 
 ---
+### 📱 Full Page Screenshot
+![Full Screenshot](screen/fullscreenshot.png)
+*Complete website overview in one view*
 
 ### ⭐ If you found this project valuable, please consider giving it a star!
 

@@ -63,7 +63,8 @@ This isn't just a template—it's a fully-functional website ready for real-worl
 
 ![Demo](screen/demo-video.gif)
 
-**[👉 Experience it live on Netlify](https://chefspalace.netlify.app/)**
+[👉 Experience it live on Netlify]  (https://chefspalace.netlify.app/)** 
+Experience the full restaurant website in action! Click above to explore all features, pages, and animations.
 
 </div>
 
@@ -247,10 +248,11 @@ This project was a comprehensive learning journey that challenged me to apply an
 </div>
 
 #### 🎓 **Udemig**
-I am deeply grateful to [**Udemig**](https://udemig.com/) for providing world-class education in modern web development. The comprehensive curriculum, hands-on projects, and supportive learning environment have been instrumental in my growth as a developer. This project is a direct result of the knowledge and skills I gained through their exceptional training program.
+I am deeply grateful to **[@udemig](https://github.com/udemig)** for providing world-class education in modern web development. The comprehensive curriculum, hands-on projects, and supportive learning environment have been instrumental in my growth as a developer. This project is a direct result of the knowledge and skills I gained through their exceptional training program.
 
-#### 👨‍🏫 **Mehmet Bey - My Mentor**
-I want to express my profound gratitude to my instructor **Mehmet Bey**, whose dedication and expertise have transformed my understanding of web development. His patient guidance, insightful feedback, and real-world industry experience have not only taught me how to code, but more importantly, how to *think* like a professional developer. His passion for teaching and commitment to student success have been a constant source of inspiration throughout this journey.
+#### 👨‍🏫 ** Mehmet Can SEYHAN - My Mentor**
+I want to express my profound gratitude to my instructor ## 👨‍🏫 **[Mehmet Can SEYHAN](https://github.com/isveckrali)** - My Mentor
+**, whose dedication and expertise have transformed my understanding of web development. His patient guidance, insightful feedback, and real-world industry experience have not only taught me how to code, but more importantly, how to *think* like a professional developer. His passion for teaching and commitment to student success have been a constant source of inspiration throughout this journey.
 
 ---
 
